@@ -104,6 +104,17 @@ I also uploaded my prod.zip folder to JLCPCB to get a quote for the PCB.
 <img width="1038" height="281" alt="Screenshot 2025-12-29 153811" src="https://github.com/user-attachments/assets/870a1d7e-4f6c-4573-85f9-c44fe3cf7bf1" />
 <img width="966" height="228" alt="Screenshot 2025-12-29 160254" src="https://github.com/user-attachments/assets/5bc36b0b-8658-45b5-a9e2-a1a75ee49896" />
 
+Here are all the links to the individual parts:
+
+Arduino Nano ---- https://shorturl.at/JPrPM
+
+2-pin JST connectors ---- https://shorturl.at/WezDQ
+
+2-pin JST male connectors ---- https://shorturl.at/IjD5K
+
+Break-off pins ---- https://shorturl.at/FqSn6
+
+Housing foam ---- https://shorturl.at/O2BPj
 
 
 Adding the prices together only took me around 10 minutes.
