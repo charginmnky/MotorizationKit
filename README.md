@@ -65,7 +65,9 @@ For the Arduino Uno, I found a cheap USB-C one from Ali Express with free shippi
 
 I then researched the 2-pin JST micro connectors for the PCB. For these, I specifically looked out for right angle connectors so that when on the PCB and wires are plugged in, they stay compact and come out the side of the PC, allowing the PCB to fit comfortably in the helmet.
 
-<img width="951" height="411" alt="Screenshot 2025-12-24 184354" src="https://github.com/user-attachments/assets/ffc85835-c445-49d9-9412-f0f2aa3ad231" />
+
+<img width="934" height="398" alt="Screenshot 2026-01-08 185116" src="https://github.com/user-attachments/assets/b725a59a-8327-40fa-b533-218635dd1db8" />
+
 
 For the wires that would plug into the micro connectors, I found some on Ali Express that would be suitable and would fit.
 
@@ -92,12 +94,14 @@ This took me an hour and 47 minutes.
 
 
 I added all the parts I need to my cart to add up the total price.
-<img width="908" height="768" alt="Screenshot 2025-12-29 152935" src="https://github.com/user-attachments/assets/9c1542b6-8674-4221-b1b7-8e76d0cab504" />
+<img width="895" height="756" alt="Screenshot 2026-01-08 184937" src="https://github.com/user-attachments/assets/15c92d8f-d46e-4eb8-b432-f528888f566d" />
 
 
-I now know my budget for my project, and it will be Tier 5, at 20 pounds.
 
-<img width="345" height="71" alt="Screenshot 2025-12-25 144343" src="https://github.com/user-attachments/assets/133f7352-9b1d-43a6-af40-14aaf4b83d61" />
+I now know my budget for my project, and it will be Tier 5, at about 20 pounds.
+
+<img width="258" height="52" alt="Screenshot 2026-01-08 185008" src="https://github.com/user-attachments/assets/09b699d6-806d-4c5d-aa21-83a6b91219f5" />
+
 
 I also uploaded my prod.zip folder to JLCPCB to get a quote for the PCB.
 <img width="1035" height="285" alt="Screenshot 2025-12-29 153716" src="https://github.com/user-attachments/assets/b551e916-a3e0-4e99-8f06-831af060f3c6" />
@@ -108,7 +112,7 @@ Here are all the links to the individual parts:
 
 Arduino Nano ---- https://shorturl.at/JPrPM
 
-2-pin JST connectors ---- https://shorturl.at/WezDQ
+2-pin JST connectors ---- https://shorturl.at/tX3ts
 
 2-pin JST male connectors ---- https://shorturl.at/IjD5K
 
